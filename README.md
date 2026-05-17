@@ -1,1 +1,0 @@
-# terraform-azurerm-resource-group-storage
